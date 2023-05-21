@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Rayhan Abdullah</h1>
 <h3 align="center">A passionate Full-Stack Developer from Dhaka, Bangladesh.</h3>
 
@@ -31,4 +31,29 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahaldot22&show_icons=true&locale=en" alt="abdullahaldot22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaldot22&" alt="abdullahaldot22" /></p>
+
+<div align="center">
+  <img height="374" src="https://media3.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif?cid=ecf05e47c7s5dq96735do5hwmr8m23ibwjwjps2zrv0g7swl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahaldot22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahaldot22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/abdullahaldot22/abdullahaldot22/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=abdullahaldot22&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
 
