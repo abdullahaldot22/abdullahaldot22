@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahaldot22&show_icons=true&locale=en" alt="abdullahaldot22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaldot22&" alt="abdullahaldot22" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdullahaldot22&theme=discord-old-blurple&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri%2CSat&card_width=100%&type=png&background=45%2C0E3321%2C203F64&hide_current_streak=true)](https://git.io/streak-stats)
 
 <div align="center">
   <img height="374" src="https://media3.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif?cid=ecf05e47c7s5dq96735do5hwmr8m23ibwjwjps2zrv0g7swl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
