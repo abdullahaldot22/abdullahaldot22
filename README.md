@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently learning on [test-laravel](github.com/abdullahaldot22/test-laravel)
+- 🔭 I’m currently learning on [test-laravel](../test-laravel)
 
 - 🌱 I’m currently learning **JS, VueJS**
 
