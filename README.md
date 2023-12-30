@@ -1,7 +1,7 @@
 
 # Rayhan Abdullah
 
-`Backend Web Developer`, `Laravel Developer`, `Pentester`
+**`Backend Web Developer`, `Laravel Developer`, `Pentester`**
 
 
 
