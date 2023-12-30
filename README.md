@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently learning on [test-laravel](../../../test-laravel)
+* 🔭 I’m currently learning on [test-laravel](../../../test-laravel)
 
-- 🌱 I’m currently learning **JS, VueJS**
+- 🌱 I’m currently learning **Assembly**
 
-- 👨‍💻 All of my projects are available at [abdullahaldot22.github.io/portfolio](abdullahaldot22.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [abdullahaldot22.github.io/portfolio](../../../../abdullahaldot22.github.io/portfolio)
 
 - 💬 Ask me about **Laravel, HTML, CSS, Sass, Less, JS, C, Python, MySQL, Microsoft Office, Gimp.**
 
