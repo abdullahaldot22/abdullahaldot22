@@ -1,7 +1,7 @@
 
-## Rayhan Abdullah
+# Rayhan Abdullah
 
-<h3 align="center">A passionate Full-Stack Developer from Dhaka, Bangladesh.</h3>
+** `Full-Stack Developer`
 
 
 
