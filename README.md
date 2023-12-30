@@ -1,11 +1,11 @@
 
 # Rayhan Abdullah
 
-** `Full-Stack Developer`
+`Backend Web Developer`, `Laravel Developer`, `Pentester`
 
 
 
-- 🔭 I’m currently working on [test-laravel](github.com/abdullahaldot22/test-laravel)
+- 🔭 I’m currently learning on [test-laravel](github.com/abdullahaldot22/test-laravel)
 
 - 🌱 I’m currently learning **JS, VueJS**
 
