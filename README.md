@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rayhan Abdullah</h1>
 <h3 align="center">A passionate Full-Stack Developer from Dhaka, Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahaldot22&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahaldot22" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=abdullahaldot22&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahaldot22" /> </p>
 
 - 🔭 I’m currently working on [test-laravel](github.com/abdullahaldot22/test-laravel)
 
