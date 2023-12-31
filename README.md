@@ -49,7 +49,7 @@ for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
 <br><br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahaldot22&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahaldot22&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahaldot22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 <br>
