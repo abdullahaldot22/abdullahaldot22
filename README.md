@@ -17,7 +17,6 @@
   > - Backend  
     > Laravel, PHP, Mysql, JSON, XAMPP, Laragon
   > - Frontend
-    
     > HTML, CSS, Sass, Less, Bootstrap, Tailwind CSS, JQuery, JS, ReactJS
 - Programming Language
   > C, PHP, Rust, Python, JS
