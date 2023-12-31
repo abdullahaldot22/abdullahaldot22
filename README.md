@@ -24,7 +24,7 @@ See more [here](https://abdullahal22.showwcase.com)
 
 * on [codepen](https://codepen.io/abdullahal22)
 * on [Twitter/X](https://twitter.com/abdullahal_22)
-* on [linkedIn](https://linkedin.com/in/abdullahal22)
+* on [LinkedIn](https://linkedin.com/in/abdullahal22)
 
 
 
