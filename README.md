@@ -10,11 +10,11 @@
 - Web Development
   - Backend
     - PHP
-    - - Laravel
+      - Laravel
     - Database
       - Mysql
     - Server
-    - - Laragon
+      - Laragon
       - XAMPP
   - Frontend
     - HTML
