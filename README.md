@@ -27,7 +27,7 @@
     - ReactJS
 - Github
   - Git Bash
-  - Github Desktop
+  - Github Desktop <br>
 [See more ..](https://abdullahal22.showwcase.com)
 
 ## Connect with me:
