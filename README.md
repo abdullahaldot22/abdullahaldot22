@@ -43,7 +43,7 @@ for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
 
 
 <details>
-  <summary><h3> My Journey on Programming World 💻 </h3></summary>
+  <summary><h2> My Journey on Programming World 💻 </h2></summary>
   <p>oen fireasldkjfowisef sodijfowesirfosd</p>
 </details>
 
