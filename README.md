@@ -5,7 +5,7 @@
 
 <br>
 
-    i started my journey as a programmer.
+i started my journey as a programmer.
 
 ## Skill's 
 
