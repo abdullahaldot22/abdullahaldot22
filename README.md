@@ -20,10 +20,10 @@
     
 See more [here](https://abdullahal22.showwcase.com)
 
-<summary>
-  <title>dwsefsdf</title>
+<details>
+  <summary>dwsefsdf</title>
   <p>oen fireasldkjfowisef sodijfowesirfosd</p>
-</summary>
+</details>
 
 ## Connect with me:
 
