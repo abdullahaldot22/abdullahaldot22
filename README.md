@@ -64,7 +64,7 @@ for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
 <br>
 <div align="center">
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahaldot22&theme=github)](https://github.com/abdullahaldot22/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahaldot22&theme=github&hide_border=true)](https://github.com/abdullahaldot22/github-readme-activity-graph)
 </div>
 
 
