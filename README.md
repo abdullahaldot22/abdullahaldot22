@@ -3,9 +3,6 @@
 
 **`Full Stack Web Developer`, `Laravel Developer`, `Pentester`**
 
-<div align="center">
-  <img height="374" src="https://media3.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif?cid=ecf05e47c7s5dq96735do5hwmr8m23ibwjwjps2zrv0g7swl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
 
 * 🔭 I’m currently learning on [test-laravel](../../../test-laravel)
 
@@ -24,7 +21,7 @@
 * on [linkedIn](https://linkedin.com/in/abdullahal22)
 * ![Static Badge](https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=twitter8845)
 * <object>![Static Badge](https://custom-icon-badges.demolab.com/badge/twitter-grey?style=for-the-badge&logo=twitter8845&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DECuqb5Tv9qI)</object>
-* <object alt="Static Badge" src="https://img.shields.io/badge/twitter?style=for-the-badge&label=twitter&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DECuqb5Tv9qI"/>
+* <a src="https://google.com"><img alt="Static Badge" src="https://img.shields.io/badge/twitter?style=for-the-badge&label=twitter"/></a>
 
 
 
