@@ -35,7 +35,6 @@ See more [here](https://abdullahal22.showwcase.com)
 
 for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
 
-<br>
 
 <details>
   <summary><h3> 💻 My Journey on Programming World</h3></summary>
