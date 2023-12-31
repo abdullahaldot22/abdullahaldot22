@@ -56,6 +56,11 @@ for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
 </div>
 <br>
 <div align="center">
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahaldot22)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+<br>
+<div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdullahaldot22&theme=discord-old-blurple&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri%2CSat&card_width=850%&type=png&background=45%2C0E3321%2C203F64&hide_current_streak=true)](https://git.io/streak-stats)
 </div>
