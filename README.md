@@ -21,6 +21,7 @@ i started my journey as a programmer.
    `Git Bash, Github Desktop`
     
 See more [here](https://abdullahal22.showwcase.com)
+
 <br>
 
 ## Currently Learning 🌱
