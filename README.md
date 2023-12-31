@@ -20,6 +20,10 @@
     
 See more [here](https://abdullahal22.showwcase.com)
 
+## Currently Learning
+
+  Continuously evolving my skills. Currently exploring Assembly on x86 architecture, with a focus on [Reverse Engineering].
+
 <details>
   <summary><h3>sdfweseofisdflksdf</h3></summary>
   <p>oen fireasldkjfowisef sodijfowesirfosd</p>
@@ -27,9 +31,10 @@ See more [here](https://abdullahal22.showwcase.com)
 
 ## Connect with me:
 
-* on [codepen](https://codepen.io/abdullahal22)
 * on [Twitter/X](https://twitter.com/abdullahal_22)
 * on [LinkedIn](https://linkedin.com/in/abdullahal22)
+
+for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
 
 <br><br>
 
