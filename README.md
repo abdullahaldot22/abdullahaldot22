@@ -6,7 +6,7 @@
 <br>
 
 ## Skills
-    - Web Development
+- Web Development
         - Backend
             - Laravel
         - Frontend
