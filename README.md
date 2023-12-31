@@ -7,18 +7,16 @@
 
 ## Skills
 
-<details>- Web Development
-  <summary>- Backend</summary>
-    <p>
+- Web Development
+  - Backend
     - Laravel
     - PHP
     - Mysql
     - JSON
     - XAMPP
     - Laragon
-    </p>
-  <summary>- Frontend</summary>
-    <p>- HTML
+  - Frontend
+    - HTML
     - CSS
     - Sass
     - Less
@@ -26,8 +24,7 @@
     - Tailwind CSS
     - JQuery
     - JS
-    - ReactJS</p>
-  </details>
+    - ReactJS
 - Text Editor & tools
   - VS Code
   - Sublime Text
