@@ -9,10 +9,13 @@
 
 - Web Development
   - Backend
+    
      `Laravel, PHP, Mysql, JSON, XAMPP, Laragon`
   - Frontend
+    
      `HTML, CSS, Sass, Less, Bootstrap, Tailwind CSS, JQuery, JS, ReactJS`
 - Github
+  
    `Git Bash, Github Desktop`
     
 See more [here](https://abdullahal22.showwcase.com)
