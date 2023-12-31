@@ -45,10 +45,8 @@ for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
 
 <details>
   <summary><h2> My Journey on Programming World 💻 </h2></summary>
-  <p>
-    
-    > oen fireasldkjfowisef sodijfowesirfosd
-  </p>
+  <p>The muggers took away the vehicle from an Uber driver at gunpoint on May 19 and used the car to mug people in different areas of Dhaka for the last seven months, said Harun Or Rashid, additional commissioner (detective branch) of Dhaka Metropolitan Police at a press briefing today.</p>
+  <p>The muggers took away the vehicle from an Uber driver at gunpoint on May 19 and used the car to mug people in different areas of Dhaka for the last seven months, said Harun Or Rashid, additional commissioner (detective branch) of Dhaka Metropolitan Police at a press briefing today.</p>
 </details>
 
 <br><br>
