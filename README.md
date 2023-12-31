@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 * <a href="https://codepen.io/abdullahal22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdullahal22" height="30" width="40" /></a>
 * <a href="https://twitter.com/abdullahal_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullahal_22" height="30" width="40" /></a>
-* <a href="https://linkedin.com/in/abdullahal22" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/twitter?style=social&logo=twitter&label=twitter"></a>
+* [LinkedIn](https://linkedin.com/in/abdullahal22)
 
 
 <h3 align="left">Languages and Tools:</h3>
