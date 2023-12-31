@@ -20,7 +20,7 @@
 * on [codepen](https://codepen.io/abdullahal22)
 * on [Twitter/X](https://twitter.com/abdullahal_22)
 * on [linkedIn](https://linkedin.com/in/abdullahal22)
-* ![Static Badge](https://twitter.demolab.com/badge/twitter?style=social&logo=twitter&label=twitter)
+* ![Static Badge](https://twitter8845.demolab.com/badge/twitter?style=social&logo=twitter&label=twitter)
 
 
 
