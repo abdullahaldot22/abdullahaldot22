@@ -21,7 +21,7 @@
 * on [Twitter/X](https://twitter.com/abdullahal_22)
 * on [linkedIn](https://linkedin.com/in/abdullahal22)
 * ![Static Badge](https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=twitter8845)
-* ![Static Badge](https://custom-icon-badges.demolab.com/badge/-twitter-style-20B2AA?style=social&logo=twitter8845&label=twitter&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DECuqb5Tv9qI)
+* ![Static Badge](https://custom-icon-badges.demolab.com/badge/twitter%20style-20B2AA?style=social&logo=twitter8845&label=twitter&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DECuqb5Tv9qI)
 
 
 
