@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Assembly**
 
-- 👨‍💻 All of my projects are available at [abdullahaldot22.github.io/portfolio](https://abdullahaldot22.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://abdullahaldot22.github.io/portfolio)
 
 - 💬 Ask me about **Laravel, HTML, CSS, Sass, Less, JS, C, Python, MySQL, Microsoft Office, Gimp.**
 
