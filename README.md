@@ -14,13 +14,17 @@
 ## Skill's 
 
 - Web Development
-  - Backend  
+  - Backend
+    
     `Laravel, PHP, Mysql, JSON, XAMPP, Laragon`
   - Frontend
+    
     `HTML, CSS, Sass, Less, Bootstrap, Tailwind CSS, JQuery, JS, ReactJS`
 - Programming Language
+  
   `C, PHP, Rust, Python, JS`
 - Tools & Editors
+  
   `VS Code, Visual Studio, nano, Vim` <br>
   `Microsoft Office Word, Office Excel, PowerPoint` <br>
   `Google Docs, Google Spreadsheet, Google Slides` <br>
