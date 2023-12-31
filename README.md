@@ -3,17 +3,20 @@
 
 **`Full Stack Web Developer`, `Laravel Developer`, `Pentester`**
 
-<br><br>
+<br>
 
-* 🔭 I’m currently learning on [test-laravel](../../../test-laravel)
-
-- 🌱 I’m currently learning **Assembly**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://abdullahaldot22.github.io/portfolio)
-
-- 💬 Ask me about **Laravel, HTML, CSS, Sass, Less, JS, C, Python, MySQL, Microsoft Office, Gimp.**
-
-- ⚡ Fun fact **I think, at a glance people will think about me that I'm too much serious person, but on the contrary on time to time I'm too much funny.**
+## Skills
+    - Web Development
+        - Backend
+            - Laravel
+        - Frontend
+            - HTML
+            - CSS
+            - Bootstrap
+            - Tailwind CSS
+            - JQuery
+            - JS
+            - ReactJS
 
 ## Connect with me:
 
