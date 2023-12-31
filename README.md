@@ -21,7 +21,7 @@
 See more [here](https://abdullahal22.showwcase.com)
 
 <details>
-  <summary>dwsefsdf</title>
+  <summary>dwsefsdf</summary>
   <p>oen fireasldkjfowisef sodijfowesirfosd</p>
 </details>
 
