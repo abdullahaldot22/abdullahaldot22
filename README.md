@@ -29,23 +29,15 @@
   - Git Bash
   - Github Desktop
 - Package Manager
-  - Web Development
-    - Composer
-    - NPM
-    - yarn
-  - Linux
-    - apt
-    - dpkg
-    - pacman
-    - dnf
+  - Composer
+  - NPM
+  - yarn
+
 ## Connect with me:
 
 * on [codepen](https://codepen.io/abdullahal22)
 * on [Twitter/X](https://twitter.com/abdullahal_22)
 * on [linkedIn](https://linkedin.com/in/abdullahal22)
-* ![Static Badge](https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=twitter8845)
-* ![Static Badge](https://custom-icon-badges.demolab.com/badge/twitter-grey?style=for-the-badge&logo=twitter8845)
-* <a src="https://google.com">![Static Badge](https://custom-icon-badges.demolab.com/badge/twitter-grey?style=for-the-badge&logo=twitter8845)</a>
 
 
 
