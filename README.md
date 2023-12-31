@@ -17,8 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-* <a href="https://codepen.io/abdullahal22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdullahal22" height="30" width="40" /></a>
-* ![Static Badge](https://img.shields.io/badge/twitter?style=social&logo=twitter&label=twitter)
+* on [codepen](https://codepen.io/abdullahal22)
 * on [Twitter/X](https://twitter.com/abdullahal_22)
 * on [linkedIn](https://linkedin.com/in/abdullahal22)
 
