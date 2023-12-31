@@ -20,7 +20,8 @@
 * on [codepen](https://codepen.io/abdullahal22)
 * on [Twitter/X](https://twitter.com/abdullahal_22)
 * on [linkedIn](https://linkedin.com/in/abdullahal22)
-* ![Static Badge](https://custom-icon-badges.demolab.com/badge/twitter8845.svg?logo=paintbrush&logoColor=white)
+* ![Static Badge]([https://custom-icon-badges.demolab.com/badge/twitter8845.svg?logo=twitter8845&logoColor=white](https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened))
+* 
 
 
 
