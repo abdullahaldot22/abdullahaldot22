@@ -14,25 +14,22 @@
 ## Skill's 
 
 - Web Development
-  - Backend
+  > - Backend  
+    > Laravel, PHP, Mysql, JSON, XAMPP, Laragon
+  > - Frontend
     
-     `Laravel, PHP, Mysql, JSON, XAMPP, Laragon`
-  - Frontend
-    
-     `HTML, CSS, Sass, Less, Bootstrap, Tailwind CSS, JQuery, JS, ReactJS`
+    > HTML, CSS, Sass, Less, Bootstrap, Tailwind CSS, JQuery, JS, ReactJS
 - Programming Language
-  
-   `C, PHP, Rust, Python, JS`
+  > C, PHP, Rust, Python, JS
 - Tools & Editors
-
-   `VS Code, Visual Studio, nano, Vim`<br>
-   `Microsoft Office Word, Office Excel, PowerPoint`<br>
-   `Google Docs, Google Spreadsheet, Google Slides`<br>
-   `Adobe Photoshop, Adobe Illustrator, Figma, Gimp, Inkspace`<br>
-   `Firefox, Chrome, Microsoft Edge, Chromium`<br>
-   `Terminal, Power Shell, CMD Command Prompt`<br>
-   `Power bi`<br>
-   `Virtual Box, VMware`<br>
+   > VS Code, Visual Studio, nano, Vim <br>
+   > Microsoft Office Word, Office Excel, PowerPoint <br>
+   > Google Docs, Google Spreadsheet, Google Slides <br>
+   > Adobe Photoshop, Adobe Illustrator, Figma, Gimp, Inkspace <br>
+   > Firefox, Chrome, Microsoft Edge, Chromium <br>
+   > Terminal, Power Shell, CMD Command Prompt <br>
+   > Power bi <br>
+   > Virtual Box, VMware <br>
 - Github
   
    `Git Bash, Github Desktop`
