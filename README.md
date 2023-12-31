@@ -23,6 +23,12 @@
 - Programming Language
   
   `C, PHP, Rust, Python, JS`
+- Github
+  
+   `Git Bash, Github Desktop`
+- Linux
+
+   `Arch Linux, Pop OS, Kali Linux, Parrot OS, Tails OS, Whonix, Ubuntu`
 - Tools & Editors
   
   `VS Code, Visual Studio, nano, Vim` <br>
@@ -33,12 +39,7 @@
   `Terminal, Power Shell, CMD Command Prompt` <br>
   `Power bi` <br>
   `Virtual Box, VMware` <br>
-- Github
-  
-   `Git Bash, Github Desktop`
-- Linux
 
-   `Arch Linux, Pop OS, Kali Linux, Parrot OS, Tails OS, Whonix, Ubuntu`
     
 See more [here](https://abdullahal22.showwcase.com)
 
