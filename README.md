@@ -9,8 +9,8 @@
 
 - Web Development
   - Backend
-    - PHP
     - Laravel
+    - PHP
     - Mysql
     - JSON
     - XAMPP
