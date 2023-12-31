@@ -10,10 +10,11 @@
 - Web Development
   - Backend
     - PHP
-      i. Laravel
-    - Server
-      i. XAMPP
-      ii. Laragon
+    - Laravel
+    - Mysql
+    - JSON
+    - XAMPP
+    - Laragon
   - Frontend
     - HTML
     - CSS
@@ -22,7 +23,19 @@
     - JQuery
     - JS
     - ReactJS
-
+- Github
+  - Git Bash
+  - Github Desktop
+- Package Manager
+  - Web Development
+    - Composer
+    - NPM
+    - yarn
+  - Linux
+    - apt
+    - dpkg
+    - pacman
+    - dnf
 ## Connect with me:
 
 * on [codepen](https://codepen.io/abdullahal22)
