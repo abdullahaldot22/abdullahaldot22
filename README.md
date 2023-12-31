@@ -28,7 +28,7 @@
 - Github
   - Git Bash
   - Github Desktop <br>
-[See more ..](https://abdullahal22.showwcase.com)
+See more [here](https://abdullahal22.showwcase.com)
 
 ## Connect with me:
 
