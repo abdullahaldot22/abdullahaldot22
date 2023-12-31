@@ -5,7 +5,9 @@
 
 <br>
 
-## Skills 
+  i started my journey as a programmer.
+
+## Skill's 
 
 - Web Development
   - Backend
@@ -20,16 +22,16 @@
     
 See more [here](https://abdullahal22.showwcase.com)
 
-## Currently Learning
+## Currently Learning 🌱
 
   Continuously evolving my skills. Currently exploring ***Assembly on x86 architecture***, with a focus on Reverse Engineering.
 
 <details>
-  <summary><h3>sdfweseofisdflksdf</h3></summary>
+  <summary><h3> 💻 My Journey on Programming World</h3></summary>
   <p>oen fireasldkjfowisef sodijfowesirfosd</p>
 </details>
 
-## Connect with me:
+## Let's Connect 
 
 * on [Twitter/X](https://twitter.com/abdullahal_22)
 * on [LinkedIn](https://linkedin.com/in/abdullahal22)
