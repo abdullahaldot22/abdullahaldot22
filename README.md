@@ -20,6 +20,8 @@
 * on [codepen](https://codepen.io/abdullahal22)
 * on [Twitter/X](https://twitter.com/abdullahal_22)
 * on [linkedIn](https://linkedin.com/in/abdullahal22)
+* ![Static Badge](https://twitter.demolab.com/badge/twitter?style=social&logo=twitter&label=twitter)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
