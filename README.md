@@ -19,8 +19,8 @@
 > * <a href="https://codepen.io/abdullahal22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdullahal22" height="30" width="40" /></a>
 > * <a href="https://twitter.com/abdullahal_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullahal_22" height="30" width="40" /></a>
 > * <a href="https://linkedin.com/in/abdullahal22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahal22" height="30" width="40" /></a>
-> * <a href="https://fb.com/abdullahal.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahal.22" height="30" width="40" /></a>
-> * <a href="https://instagram.com/abdullahal_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahal_22" height="30" width="40" /></a>
+> * <a href="https://fb.com/abdullahal.22" target="blank">Facebook</a>
+> * <a href="https://instagram.com/abdullahal_22" target="blank">Instagram</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
