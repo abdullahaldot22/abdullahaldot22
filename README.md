@@ -26,10 +26,7 @@ See more [here](https://abdullahal22.showwcase.com)
 
   Continuously evolving my skills. Currently exploring ***Assembly on x86 architecture***, with a focus on Reverse Engineering.
 
-<details>
-  <summary><h3> 💻 My Journey on Programming World</h3></summary>
-  <p>oen fireasldkjfowisef sodijfowesirfosd</p>
-</details>
+
 
 ## Let's Connect 
 
@@ -37,6 +34,13 @@ See more [here](https://abdullahal22.showwcase.com)
 * on [LinkedIn](https://linkedin.com/in/abdullahal22)
 
 for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
+
+<br>
+
+<details>
+  <summary><h3> 💻 My Journey on Programming World</h3></summary>
+  <p>oen fireasldkjfowisef sodijfowesirfosd</p>
+</details>
 
 <br><br>
 
@@ -49,3 +53,6 @@ for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdullahaldot22&theme=discord-old-blurple&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri%2CSat&card_width=850%&type=png&background=45%2C0E3321%2C203F64&hide_current_streak=true)](https://git.io/streak-stats)
 </div>
+
+
+
