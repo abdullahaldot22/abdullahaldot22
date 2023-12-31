@@ -20,12 +20,25 @@
   - Frontend
     
      `HTML, CSS, Sass, Less, Bootstrap, Tailwind CSS, JQuery, JS, ReactJS`
+- Programming Language
+  
+   `C, PHP, Rust, Python, JS`
+- Tools & Editors
+
+   `VS Code, Visual Studio, nano, Vim`
+   `Microsoft Office Word, Office Excel, PowerPoint`
+   `Google Docs, Google Spreadsheet, Google Slides`
+   `Adobe Photoshop, Adobe Illustrator, Figma, Gimp, Inkspace`
+   `Firefox, Chrome, Microsoft Edge, Chromium`
+   `Terminal, Power Shell, CMD Command Prompt`
+   `Power bi`
+   `Virtual Box, VMware`
 - Github
   
    `Git Bash, Github Desktop`
 - Linux
 
-   `Arch Linux, Pop OS, Kali Linux, Parrot OS, Ubuntu`
+   `Arch Linux, Pop OS, Kali Linux, Parrot OS, Tails OS, Whonix, Ubuntu`
     
 See more [here](https://abdullahal22.showwcase.com)
 
