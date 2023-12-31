@@ -29,7 +29,7 @@ See more [here](https://abdullahal22.showwcase.com)
 
 ## Currently Learning 🌱
 
-  Continuously evolving my skills. Currently exploring ***Assembly on x86 architecture***, with a focus on Reverse Engineering.
+  Continuously evolving my skills. Currently exploring ***Assembly on x86 architecture***, with a focus on learing step by step procedure & command of Low Level Programming Language and its effect on processors.
 
 <br>
 
