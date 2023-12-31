@@ -25,14 +25,14 @@
    `C, PHP, Rust, Python, JS`
 - Tools & Editors
 
-   `VS Code, Visual Studio, nano, Vim`
-   `Microsoft Office Word, Office Excel, PowerPoint`
-   `Google Docs, Google Spreadsheet, Google Slides`
-   `Adobe Photoshop, Adobe Illustrator, Figma, Gimp, Inkspace`
-   `Firefox, Chrome, Microsoft Edge, Chromium`
-   `Terminal, Power Shell, CMD Command Prompt`
-   `Power bi`
-   `Virtual Box, VMware`
+   `VS Code, Visual Studio, nano, Vim`<br>
+   `Microsoft Office Word, Office Excel, PowerPoint`<br>
+   `Google Docs, Google Spreadsheet, Google Slides`<br>
+   `Adobe Photoshop, Adobe Illustrator, Figma, Gimp, Inkspace`<br>
+   `Firefox, Chrome, Microsoft Edge, Chromium`<br>
+   `Terminal, Power Shell, CMD Command Prompt`<br>
+   `Power bi`<br>
+   `Virtual Box, VMware`<br>
 - Github
   
    `Git Bash, Github Desktop`
