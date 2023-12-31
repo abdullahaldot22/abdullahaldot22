@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think, at a glance people will think about me that I'm too much serious person, but on the contrary on time to time I'm too much funny.**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 
 * on [codepen](https://codepen.io/abdullahal22)
 * on [Twitter/X](https://twitter.com/abdullahal_22)
