@@ -7,16 +7,18 @@
 
 ## Skills
 
-- Web Development
-  - Backend
+<details>- Web Development
+  <summary>- Backend</summary>
+    <p>
     - Laravel
     - PHP
     - Mysql
     - JSON
     - XAMPP
     - Laragon
-  - Frontend
-    - HTML
+    </p>
+  <summary>- Frontend</summary>
+    <p>- HTML
     - CSS
     - Sass
     - Less
@@ -24,14 +26,19 @@
     - Tailwind CSS
     - JQuery
     - JS
-    - ReactJS
-- Github
-  - Git Bash
-  - Github Desktop
+    - ReactJS</p>
+  </details>
+- Text Editor & tools
+  - VS Code
+  - Sublime Text
+  - Visual Studio
 - Package Manager
   - Composer
   - NPM
   - yarn
+- Github
+  - Git Bash
+  - Github Desktop
 
 ## Connect with me:
 
