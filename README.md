@@ -6,17 +6,18 @@
 <br>
 
 ## Skills
+
 - Web Development
-        - Backend
-            - Laravel
-        - Frontend
-            - HTML
-            - CSS
-            - Bootstrap
-            - Tailwind CSS
-            - JQuery
-            - JS
-            - ReactJS
+  - Backend
+    - Laravel
+  - Frontend
+    - HTML
+    - CSS
+    - Bootstrap
+    - Tailwind CSS
+    - JQuery
+    - JS
+    - ReactJS
 
 ## Connect with me:
 
