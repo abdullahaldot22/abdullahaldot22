@@ -10,6 +10,7 @@
 - Web Development
   - Backend
     - Laravel
+    - PHP
   - Frontend
     - HTML
     - CSS
