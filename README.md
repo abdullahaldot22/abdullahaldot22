@@ -9,8 +9,13 @@
 
 - Web Development
   - Backend
-    - Laravel
     - PHP
+    - - Laravel
+    - Database
+      - Mysql
+    - Server
+    - - Laragon
+      - XAMPP
   - Frontend
     - HTML
     - CSS
