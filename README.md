@@ -23,6 +23,9 @@
 - Github
   
    `Git Bash, Github Desktop`
+- Linux
+
+   `Arch Linux, Pop OS, Kali Linux, Parrot OS, Ubuntu`
     
 See more [here](https://abdullahal22.showwcase.com)
 
