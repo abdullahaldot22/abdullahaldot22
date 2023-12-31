@@ -25,17 +25,10 @@
     - JQuery
     - JS
     - ReactJS
-- Text Editor & tools
-  - VS Code
-  - Sublime Text
-  - Visual Studio
-- Package Manager
-  - Composer
-  - NPM
-  - yarn
 - Github
   - Git Bash
   - Github Desktop
+[See more ..](https://abdullahal22.showwcase.com)
 
 ## Connect with me:
 
