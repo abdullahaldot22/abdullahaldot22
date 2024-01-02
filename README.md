@@ -37,6 +37,7 @@
   `Adobe Photoshop, Adobe Illustrator, Figma, Gimp, Inkspace` <br>
   `Firefox, Chrome, Microsoft Edge, Chromium` <br>
   `Terminal, Power Shell, CMD Command Prompt` <br>
+  `Lucid Chart`<br>
   `Power bi` <br>
   `Virtual Box, VMware` <br>
 
