@@ -70,7 +70,7 @@ for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
 
 ##
 
-<br><br>
+<br>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahaldot22&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
