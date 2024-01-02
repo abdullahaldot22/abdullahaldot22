@@ -20,27 +20,9 @@
   - Frontend
     
     `HTML, CSS, Sass, Less, Bootstrap, Tailwind CSS, JQuery, JS, ReactJS`
-- Programming Language
-  
-  `C, PHP, Rust, Python, JS`
 - Github
   
    `Git Bash, Github Desktop`
-- Linux
-
-   `Arch Linux, Pop OS, Kali Linux, Parrot OS, Tails OS, Whonix, Ubuntu`
-- Tools & Editors
-  
-  `VS Code, Visual Studio, nano, Vim` <br>
-  `Microsoft Office Word, Office Excel, PowerPoint` <br>
-  `Google Docs, Google Spreadsheet, Google Slides` <br>
-  `Adobe Photoshop, Adobe Illustrator, Figma, Gimp, Inkspace` <br>
-  `Firefox, Chrome, Microsoft Edge, Chromium` <br>
-  `Terminal, Power Shell, CMD Command Prompt` <br>
-  `Lucid Chart`<br>
-  `Power bi` <br>
-  `Virtual Box, VMware` <br>
-
     
 See more [here](https://abdullahal22.showwcase.com)
 
