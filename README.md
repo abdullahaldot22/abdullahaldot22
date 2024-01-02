@@ -67,9 +67,9 @@ for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
   <p>The muggers took away the vehicle from an Uber driver at gunpoint on May 19 and used the car to mug people in different areas of Dhaka for the last seven months, said Harun Or Rashid, additional commissioner (detective branch) of Dhaka Metropolitan Police at a press briefing today.</p>
 </details>
 
-<br>
+##
 
-<br>
+<br><br>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahaldot22&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
