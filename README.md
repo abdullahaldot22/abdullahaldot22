@@ -60,7 +60,6 @@ See more [here](https://abdullahal22.showwcase.com)
 for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
 
 ##
-
 <details>
   <summary><h2> My Journey on Programming World 💻 </h2></summary>
   <br>
@@ -69,7 +68,7 @@ for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
 </details>
 
 <br>
-##
+
 <br>
 
 <div align="center">
