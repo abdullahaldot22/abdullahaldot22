@@ -64,7 +64,7 @@ for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
 <br>
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdullahaldot22&theme=discord-old-blurple&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri%2CSat&card_width=850%&type=png&background=45%2C0E3321%2C203F64&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdullahaldot22&theme=discord-old-blurple&hide_border=true&border_radius=10.2&date_format=M%20j%5B%2C%20Y%5D&card_width=496&type=png)](https://git.io/streak-stats)
 </div>
 
 <br>
