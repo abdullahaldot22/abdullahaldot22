@@ -7,7 +7,7 @@
 
 <br>
 
-> i started my journey as a programmer.
+> I started my journey as a programmer. Continious Learning is a hobby to me thats why I like to learn things new and challenging to me & breakthrough my limit.
 
 <br>
 
