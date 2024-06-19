@@ -38,7 +38,7 @@ See more [here](https://abdullahal22.showwcase.com)
 
 * on [Twitter/X](https://twitter.com/abdullahal_22)
 * on [LinkedIn](https://linkedin.com/in/abdullahal22)
-* or Mail me at <rayhanabdullah912@gmail.com>
+* or Mail me at <abdullahry145@gmail.com>
 
 for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
 
