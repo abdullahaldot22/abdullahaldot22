@@ -28,9 +28,10 @@ See more [here](https://abdullahal22.showwcase.com)
 
 <br>
 ## Professional Live Projects
-- [BSTI ERP](http://bstierp.com)
-- [Inncon Group](http://inncongroupbd.com)
-- [Nur Jamal Group](http://nurjamalgroup.com)
+
+* [BSTI ERP](http://bstierp.com)
+* [Inncon Group](http://inncongroupbd.com)
+* [Nur Jamal Group](http://nurjamalgroup.com)
 
 <br>
 
