@@ -3,11 +3,11 @@
 # Hey there, It's Rayhan Abdullah👋
 <br>
 
-**`Laravel Developer`, `Backend Web Developer`, `Full Stack Web Developer`, `Pentester`, `Software Engineer`**
+**`PHP Laravel Developer`, `Backend Web Developer`, `Software Engineer`**
 
 <br>
 
-> I started my journey as a programmer. Continious Learning is a hobby to me thats why I like to learn things new and challenging to me & breakthrough my limit.
+> I started my journey as a programmer. Continious Learning is a hobby to me that's why I like to learn things new and challenging to me & breakthrough my limit.
 
 <br>
 
@@ -16,13 +16,16 @@
 - Web Development
   - Backend
     
-    `Laravel, PHP, Mysql, JSON, XAMPP, Laragon`
+    `Laravel, PHP, Codeigniter, MySQL, PgSQL, JSON, XAMPP, Laragon, PostMan`
   - Frontend
     
-    `HTML, CSS, Sass, Less, Bootstrap, Tailwind CSS, JQuery, JS, ReactJS`
+    `VueJS, ReactJS, HTML, CSS, Sass, Less, Bootstrap, Tailwind CSS, JQuery, JS`
 - Github
   
-   `Git Bash, Github Desktop`
+   `Git, Git Bash, Github Desktop`
+- Docker
+
+  `Docker, Laradock, Docker Compose`
     
 See more [here](https://abdullahal22.showwcase.com)
 
@@ -30,9 +33,6 @@ See more [here](https://abdullahal22.showwcase.com)
 
 ## Professional Live Projects
 
-* [Inncon Group](http://inncongroupbd.com)
-* [BSTI ERP](http://bstierp.com) (Under Development)
-* [Nur Jamal Group](http://nurjamalgroup.com)
 
 <br>
 
@@ -45,17 +45,6 @@ See more [here](https://abdullahal22.showwcase.com)
 * or Mail me at <abdullahry145@gmail.com>
 
 for more visit my [Portfolio](https://abdullahaldot22.github.io/portfolio)
-
-##
-<details>
-  <summary><h2> My Journey on Programming World 💻 </h2></summary>
-  <br>
-  <p>From early childhood I was very curious, I enjoyed to learn and explore new things to me. In my High School education, I was introduced to C programming. Eventually I wanted to know and learn more & got associated with web programming.</p>
-
-  <p>The early days were marked by the excitement of unraveling the mysteries of coding languages, like a voyage into uncharted territory. As I delved into the intricacies of programming, each challenge became an opportunity for growth and mastery. The joy of crafting my first lines of code, solving complex problems, and witnessing tangible outcomes fueled my passion. Along the way, I've had the privilege of learning from seasoned mentors, collaborating with brilliant minds, and contributing to a myriad of projects that have shaped my skills and perspectives. This journey is a perpetual exploration, marked by continuous learning, a thirst for innovation, and an unwavering commitment to honing my craft. The programming world, with its ever-evolving landscapes and limitless possibilities, has become the canvas on which I paint my aspirations, one line of code at a time.</p>
-  
-  
-</details>
 
 ##
 
